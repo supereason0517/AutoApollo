@@ -1,0 +1,4 @@
+requests
+pandas
+playwright
+line-bot-sdk
