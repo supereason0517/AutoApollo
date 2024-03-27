@@ -1,4 +1,4 @@
-# CloudRiches-Apollo Attendance Checker
+# Apollo Attendance Checker
 This Python script automates the attendance checking process for CloudRiches-Apollo using Playwright. It logs in to the system, checks if it's a working day, and then performs the necessary actions to record your attendance. If successful, it sends a notification to your LINE account. If there's an issue, it will notify you of the failure.
 
 # Prerequisites
